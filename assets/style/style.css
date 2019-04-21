@@ -1,0 +1,56 @@
+body {
+    background: url("https://i.pinimg.com/originals/3b/f3/36/3bf336cd26b801e2c838269090a184f0.jpg");
+}
+
+
+#title {
+    text-align: center;
+    opacity: .5;
+}
+ 
+
+/* .gifs-div {
+    
+} */
+.search-bar { 
+    margin: 0 auto;
+    float: right;
+}
+
+#buttons-go-here{
+    padding: 10px;
+    overflow: auto;
+}
+.titles{
+    color: white;
+}
+
+.gif{
+    float: left;
+    opacity: 1;
+    padding: 5px;
+}
+#submit:hover {
+    background: transparent;
+    border: solid red 1.5px;
+}
+#button {
+    display: block;
+}
+.navbar {
+    background: transparent;
+    width: 325px;
+    position: absolute;
+    top: -25px;
+    right: 0px;
+
+}
+
+.gifButton{
+    margin: 5px;
+    float: left;
+}
+
+
+
+
